@@ -1,4 +1,4 @@
--*3# Exercícios Docker 2025 🐳
+# Exercícios Docker 2025 🐳
 
 Repositório com soluções para os exercícios de Docker propostos pela Compass.  
 **Autor:** Thiago Dias Resende
