@@ -1,4 +1,4 @@
-# Exercícios Docker 2025 🐳
+-*3# Exercícios Docker 2025 🐳
 
 Repositório com soluções para os exercícios de Docker propostos pela Compass.  
 **Autor:** Thiago Dias Resende
@@ -10,6 +10,12 @@ Repositório com soluções para os exercícios de Docker propostos pela Compass
 - Docker instalado ([Guia de instalação](https://docs.docker.com/get-docker/))
 - Docker Compose (para exercícios 8 e 12)
 - Git (opcional, para clonar o repositório)
+
+---
+
+## 📝 Lista
+[Exercício 1](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex1) 
+
 
 ---
 
@@ -36,6 +42,8 @@ Repositório com soluções para os exercícios de Docker propostos pela Compass
    ...
    └── README.md                 # Este arquivo
    ```
+
+---
 
 ## 🧩 Lista de Exercícios
 ### 🟢 Fácil
@@ -68,5 +76,8 @@ Repositório com soluções para os exercícios de Docker propostos pela Compass
 
 12	Correção de Dockerfile vulnerável	
 ```
+
+---
+
 ## 📝 Licença
 Este projeto está sob licença MIT. Veja o arquivo LICENSE para detalhes.
