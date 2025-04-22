@@ -96,9 +96,9 @@ Para mapear um diretório local para o container (ex: compartilhar scripts):
 ```
 docker run -it -v $(pwd)/scripts:/scripts --name ubuntu-interativo ubuntu bash
 ```
+
 Acesse os scripts em `/scripts` dentro do container.
 
-```
 
 ### Como implementar:
 1. Crie a estrutura de pastas dentro de `ex2/`:
@@ -107,9 +107,9 @@ Acesse os scripts em `/scripts` dentro do container.
    ```
 
 2. Adicione os arquivos:
-   - Cole o conteúdo acima em `ex2/README.md`
-   - Crie o script de exemplo em `ex2/scripts/system-info.sh`
-   - Adicione prints de execução em `ex2/prints/` (opcional)
+   - Cole o conteúdo acima em          `ex2/README.md`
+   - Crie o script de exemplo em       `ex2/scripts/system-info.sh`
+   - Adicione prints de execução em    `ex2/prints/` (opcional)
 
 3. (Opcional) Documente os comandos usados:
    ```
