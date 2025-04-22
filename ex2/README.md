@@ -86,6 +86,7 @@ echo "Memory: $(free -h | grep Mem | awk '{print $2}')"
 
 ## 📸 Evidência de Execução
 
+![Imagem colada (2)](https://github.com/user-attachments/assets/ce16185d-f94a-4e8a-99fe-481d488e9cc5)
 *Exemplo: Saída do comando `htop` no container*
 
 ---
