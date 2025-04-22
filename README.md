@@ -45,23 +45,25 @@ exerciciosDockerCompass/
 
 ## 🧩 Lista de Exercícios
 ### 🟢 Fácil
-Exercício	Descrição	Pasta
-1	Container Nginx com site estático	ex1
-2	Container Ubuntu interativo	ex2
-3	Gerenciamento de containers	ex3
-4	Dockerfile para aplicação Flask	ex4
+Exercício	          	                  Pasta
+1	Container Nginx com site estático	   ex1
+2	Container   Ubuntu interativo	         ex2
+3	Gerenciamento de containers	         ex3
+4	Dockerfile para aplicação Flask	      ex4
+
 ### 🟠 Médio
-Exercício	Descrição	Pasta
-5	Volume persistente com MySQL	ex5
-6	Multi-stage build em Go	ex6
-7	Rede Docker para Node.js + MongoDB	ex7
-8	Docker Compose com PostgreSQL	ex8
+Exercício	                            	Pasta
+5	Volume persistente com MySQL	         ex5
+6	Multi-stage build em Go	               ex6
+7	Rede Docker para Node.js + MongoDB	   ex7
+8	Docker Compose com PostgreSQL	         ex8
+
 ### 🔴 Difícil
-Exercício	Descrição	Pasta
-9	Imagem personalizada com Nginx	ex9
-10	Execução como usuário não-root	ex10
+Exercício	                            	Pasta
+9	Imagem personalizada com Nginx	      ex9
+10	Execução como usuário não-root	      ex10
 11	Análise de vulnerabilidades com Trivy	ex11
-12	Correção de Dockerfile vulnerável	ex12
+12	Correção de Dockerfile vulnerável	   ex12
 
 ## 📝 Licença
 Este projeto está sob licença MIT. Veja o arquivo LICENSE para detalhes.
