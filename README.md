@@ -45,7 +45,8 @@ exerciciosDockerCompass/
 
 ## 🧩 Lista de Exercícios
 ### 🟢 Fácil
-Exercício	          	                  
+Exercício	
+
 1	Container Nginx com site estático	   -- ex1
 
 2	Container   Ubuntu interativo	         -- ex2
@@ -55,7 +56,8 @@ Exercício
 4	Dockerfile para aplicação Flask	      -- ex4
 
 ### 🟠 Médio
-Exercício	                            	
+Exercício
+
 5	Volume persistente com MySQL	         -- ex5
 
 6	Multi-stage build em Go	               -- ex6
@@ -65,7 +67,8 @@ Exercício
 8	Docker Compose com PostgreSQL	         -- ex8
 
 ### 🔴 Difícil
-Exercício	                            	
+Exercício
+
 9	Imagem personalizada com Nginx	      -- ex9
 
 10	Execução como usuário não-root	      -- ex10
