@@ -6,6 +6,7 @@ Repositório com soluções para os exercícios de Docker propostos pela Compass
 
 ---
 [Exercício 1](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex1) 
+
 [Exercício 2](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex2)
 
 
