@@ -5,6 +5,11 @@ Repositório com soluções para os exercícios de Docker propostos pela Compass
 **Data:** 17/04/2025
 
 ---
+[Exercício 1](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex1) 
+[Exercício 2](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex2)
+
+
+---
 
 ## 📋 Pré-requisitos
 - Docker instalado ([Guia de instalação](https://docs.docker.com/get-docker/))
@@ -15,12 +20,12 @@ Repositório com soluções para os exercícios de Docker propostos pela Compass
 
 ## 🚀 Como usar este repositório
 1. Clone o repositório:
-   ```bash
+   ```
    git clone https://github.com/ThiagoResende88/exerciciosDockerCompass.git
-
+   ```
 
 ## 📂 Estrutura do Projeto
-
+```
 exerciciosDockerCompass/
 ├── ex1/
 │   ├── Dockerfile
@@ -35,6 +40,7 @@ exerciciosDockerCompass/
 │   └── requirements.txt
 ...
 └── README.md                 # Este arquivo
+```
 
 ## 🧩 Lista de Exercícios
 ### 🟢 Fácil
