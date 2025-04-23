@@ -96,8 +96,8 @@ ex3/
 ---
 
 ## 📸 Evidência de Execução
-
- 
+![Imagem colada](https://github.com/user-attachments/assets/b318d47c-178b-42db-9ecf-4045322f1cb9)
+![Imagem colada (2)](https://github.com/user-attachments/assets/94c54f1b-3320-48d2-905c-3bd67e6fd869)
 *Exemplo: Saída de `docker ps -a` mostrando containers ativos e parados*
 
 ---
