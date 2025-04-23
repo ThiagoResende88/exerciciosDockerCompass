@@ -1,0 +1,9 @@
+Comandos usados no Exercício 3:
+1. Listar containers:
+docker ps -a
+
+2. Parar container:
+docker stop <nome>
+
+3. Remover container:
+docker rm <nome>
