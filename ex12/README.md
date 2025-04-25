@@ -122,14 +122,18 @@ requests>=2.31.0
 ---
 
 ## **Evidências**
+![Comparação Trivy](ex12/prints/image_build.png)
+
 1. **Scan com Trivy antes/depois**:
-   ![Comparação Trivy](prints/trivy-comparacao.png)
+[Imagem antes - ex11](ex11/prints/resultado_final.png)
+
 
 2. **Verificação de usuário**:
    ```bash
    $ docker exec myapp whoami
    appuser
-   ```
+    ```
+[Imagem](ex12/prints/curl.png)   
 
 ---
 
@@ -138,10 +142,6 @@ As alterações aplicadas reduziram:
 - 100% das vulnerabilidades críticas
 - 85% do tamanho da imagem
 - Superfície de ataque (remoção de root)
-
-**Link para o Dockerfile completo**: [ex12/Dockerfile](dockerfiles/ex12/Dockerfile)
-
-**Próximos passos**: Implementar essas práticas em todos os projetos Docker!
 
 ---
 
