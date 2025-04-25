@@ -133,7 +133,6 @@ requests>=2.31.0
    $ docker exec myapp whoami
    appuser
     ```
-[Imagem](ex12/prints/curl.png)   
 
 ---
 
