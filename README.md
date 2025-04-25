@@ -2,13 +2,33 @@
 
 Repositório com soluções para os exercícios de Docker propostos pela Compass.  
 **Autor:** Thiago Dias Resende
-**Data:** 17/04/2025
+**Data:** 25/04/2025
 
 ---
-[Exercício 1](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex1) 
+## Sumário
+[Exercício 1](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex1): Rodando um container básico (Nginx)
 
-[Exercício 2](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex2)
+[Exercício 2](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex2): Container interativo (Ubuntu)
 
+[Exercício 3](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex3): Listando e removendo containers
+
+[Exercício 4](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex4): Dockerfile para aplicação Flask
+
+[Exercício 5](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex5): Volumes para persistência (MySQL)
+
+[Exercício 6](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex6): Multi-stage build (Go)
+
+[Exercício 7](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex7): Rede Docker (Node.js + MongoDB)
+
+[Exercício 8](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex8): Docker Compose (PostgreSQL + PgAdmin)
+
+[Exercício 9](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex9): Imagem personalizada (Nginx + site estático)
+
+[Exercício 10](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex10): Execução como usuário não-root
+
+[Exercício 11](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex11): Análise de vulnerabilidades com Trivy
+
+[Exercício 12](https://github.com/ThiagoResende88/exerciciosDockerCompass/tree/main/ex12): Correção de vulnerabilidades
 
 ---
 
@@ -45,6 +65,7 @@ exerciciosDockerCompass/
 
 ## 🧩 Lista de Exercícios
 ### 🟢 Fácil
+```
 Exercício	
 
 1	Container Nginx com site estático	   -- ex1
@@ -54,8 +75,9 @@ Exercício
 3	Gerenciamento de containers	         -- ex3
 
 4	Dockerfile para aplicação Flask	      -- ex4
-
+```
 ### 🟠 Médio
+```
 Exercício
 
 5	Volume persistente com MySQL	         -- ex5
@@ -65,8 +87,9 @@ Exercício
 7	Rede Docker para Node.js + MongoDB	   -- ex7
 
 8	Docker Compose com PostgreSQL	         -- ex8
-
+```
 ### 🔴 Difícil
+```
 Exercício
 
 9	Imagem personalizada com Nginx	      -- ex9
@@ -75,7 +98,10 @@ Exercício
 
 11	Análise de vulnerabilidades com Trivy	-- ex11
 
-12	Correção de Dockerfile vulnerável	   ex12
+12	Correção de Dockerfile vulnerável	   -- ex12
+```
+
+---
 
 ## 📝 Licença
 Este projeto está sob licença MIT. Veja o arquivo LICENSE para detalhes.
