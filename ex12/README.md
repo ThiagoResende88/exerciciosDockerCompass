@@ -122,17 +122,19 @@ requests>=2.31.0
 ---
 
 ## **Evidências**
-![Comparação Trivy](ex12/prints/image_build.png)
+https://github.com/ThiagoResende88/exerciciosDockerCompass/blob/main/ex12/prints/image_build.png
 
 1. **Scan com Trivy antes/depois**:
-[Imagem antes - ex11](ex11/prints/resultado_final.png)
-
+https://github.com/ThiagoResende88/exerciciosDockerCompass/blob/main/ex11/prints/resultado_final.png
 
 2. **Verificação de usuário**:
    ```bash
    $ docker exec myapp whoami
    appuser
     ```
+https://github.com/ThiagoResende88/exerciciosDockerCompass/blob/main/ex12/prints/curl.png 
+
+https://github.com/ThiagoResende88/exerciciosDockerCompass/blob/main/ex12/prints/aplicacao_rodando.png
 
 ---
 
